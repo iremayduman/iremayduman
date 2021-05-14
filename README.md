@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am studying mechatronic engineering at Marmara University .
+I am studying Mechatronic Engineering at Marmara University .
 
 <!-- Working as a software engineer to make the system more functional, which has millions of users from thousands of organisations.
 
