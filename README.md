@@ -24,7 +24,7 @@ Some Azure products and services have been used such as Azure AppServices, Azure
   <a href="mailto:irem03052@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   <a href="https://linkedin.com/in/iremayduman/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
   <a href="https://www.instagram.com/irem_ayduman/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-  <a href="https://stackoverflow.com/users/12888105/zafer-%c3%87al%c4%b1%c5%9fkan"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+  
 </p>
 
 <br />
