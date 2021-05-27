@@ -19,11 +19,9 @@ Some Azure products and services have been used such as Azure AppServices, Azure
 ![GitHub stars](https://img.shields.io/github/stars/iremayduman?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Firemayduman.iremayduman%2Freadme)
 
-## Contact me
-<p>
-  <a href="mailto:irem03052@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-  <a href="https://linkedin.com/in/iremayduman/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  
+
+
+
   
 </p>
 
