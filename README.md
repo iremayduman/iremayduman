@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ,I'm İrem 
 
 I am studying Mechatronic Engineering at Marmara University .
 
